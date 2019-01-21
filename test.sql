@@ -1,1 +1,1 @@
-select * from dual where 0=1
+select * from dual where 0=1 and 1=0
